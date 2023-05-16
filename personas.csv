@@ -1,201 +1,101 @@
-id-persona,nombre,primer_apellido,segundo_apellido,email
-1,Brandon,Morales,Castro,Brandon.Morales@email.com
-2,Kenia, García, Smith,Kenia. García@email.com
-3,Sofia,Rodríguez, Johnson,Sofia.Rodríguez@email.com
-4,Pablo, López, Williams,Pablo. López@email.com
-5,Miguel, González, Jones,Miguel. González@email.com
-6,Luis,Pérez, Brown,Luis.Pérez@email.com
-7,Perla, Martínez, Davis,Perla. Martínez@email.com
-8,Isaac,Sánchez, Miller,Isaac.Sánchez@email.com
-9,Brayan, Flores, Wilson,brayan.flores@email.com
-10,Eros,Hernández, Moore,Eros.Hernández@email.com
-11,Fernando, Gómez, Taylor,Fernando. Gómez@email.com
-12,Fernanda,Torres, Anderson,Fernanda.Torres@email.com
-13,Pedro, Ramírez, Thomas,Pedro. Ramírez@email.com
-14,Carmen, Vázquez, Jackson,Carmen. Vázquez@email.com
-15,Luisa, Cruz, White,Luisa. Cruz@email.com
-16,Jorge, Romero, Harris,Jorge. Romero@email.com
-17,Daniela, Díaz, Martin,Daniela. Díaz@email.com
-18,Dafne, Aguilar, Thompson,Dafne. Aguilar@email.com
-19,Dannae,Reyes, Garcia,Dannae.Reyes@email.com
-20,Dania, Ortiz, Martinez,Dania. Ortiz@email.com
-21,Diana, Ramos, Robinson,Diana. Ramos@email.com
-22,David, Mendoza, Clark,David. Mendoza@email.com
-23,Kendra, Castro, Rodriguez,Kendra. Castro@email.com
-24,Javier, Castillo, Lewis,Javier. Castillo@email.com
-25,Axel,Velázquez, Lee,Axel.Velázquez@email.com
-26,Alejandro, Valencia, Walker,Alejandro. Valencia@email.com
-27,Armenio, Jiménez, Hall,Armenio. Jiménez@email.com
-28,Arturo, Muñoz, Allen,Arturo. Muñoz@email.com
-29,Agustin, Espinoza, Young,Agustin. Espinoza@email.com
-30,Angel, Rivera, King,Angel. Rivera@email.com
-31,Aldair,Rosales, Wright,Aldair.Rosales@email.com
-32,Armando, Gonzales, Scott,Armando. Gonzales@email.com
-33,Arturo,Fernández, Green,Arturo.Fernández@email.com
-34,Brallan, Núñez, Baker,Brallan. Núñez@email.com
-35,Belinda,Chávez, Nelson,Belinda.Chávez@email.com
-36,Melvin, Medina, Carter,Melvin. Medina@email.com
-37,Melbi, Acosta, Mitchell,Melbi. Acosta@email.com
-38,Daniel, Ríos, Perez,Daniel. Ríos@email.com
-39,Darwin, Molina, Roberts,Darwin. Molina@email.com
-40,Carolina, Ruiz, Turner,Carolina. Ruiz@email.com
-41,Gustavo, Sosa, Phillips,Gustavo. Sosa@email.com
-42,Gustabo, Suárez, Campbell,Gustabo. Suárez@email.com
-43,Irving, Morales, Parker,Irving. Morales@email.com
-44,Isabel,Cortés, Evans,Isabel.Cortés@email.com
-45,Ignacia, Herrera, Edwards,Ignacia. Herrera@email.com
-46,Ignacio ,Flores, Collins,Ignacio .Flores@email.com
-47,Naidelin, Zavala, Stewart,Naidelin. Zavala@email.com
-48,Natalia, Duarte, Sanchez,Natalia. Duarte@email.com
-49,Nanci, Espinosa, Morris,Nanci. Espinosa@email.com
-50,Naomi,Ibarra, Rogers,Naomi.Ibarra@email.com
-51,Noemi, Flores, Reed,Noemi. Flores@email.com
-52,Oscar, León, Cook,Oscar. León@email.com
-53,Adriana, Galván, Bailey,Adriana. Galván@email.com
-54,Leidy, Carmona, Rivera,Leidy. Carmona@email.com
-55,Guisell, Cárdenas, Cooper,Guisell. Cárdenas@email.com
-56,German, Villegas, Cox,German. Villegas@email.com
-57,Octavio, Luna, Ramirez,Octavio. Luna@email.com
-58,Omar, Mata, Peterson,Omar. Mata@email.com
-59,Ismael, Cervantes, Gray,Ismael. Cervantes@email.com
-60,Belen, Rojas, James,Belen. Rojas@email.com
-61,Belem, Aguayo, Watson,Belem. Aguayo@email.com
-62, Sofia, Soria, Brooks, Sofia. Soria@email.com
-63, Emma, Benítez, Kelly, Emma. Benítez@email.com
-64, Isabella, Salazar, Sanders, Isabella. Salazar@email.com
-65, Mia, Fuentes, Price, Mia. Fuentes@email.com
-66, Ava, Navarro, Bennett, Ava. Navarro@email.com
-67, Amelia, Delgado, Wood, Amelia. Delgado@email.com
-68, Charlotte, Carreón, Barnes, Charlotte. Carreón@email.com
-69, Harper, Mora, Ross, Harper. Mora@email.com
-70, Aria, Padilla, Henderson, Aria. Padilla@email.com
-71, Scarlett, Rangel, Coleman, Scarlett. Rangel@email.com
-72, Luna, Montes, Jenkins, Luna. Montes@email.com
-73, Camila, Alvarado, Perry, Camila. Alvarado@email.com
-74, Chloe, Aguilar, Powell, Chloe. Aguilar@email.com
-75, Madison, Estrada, Long, Madison. Estrada@email.com
-76, Abigail, Contreras, Flores, Abigail. Contreras@email.com
-77, Emily, Mercado, Washington, Emily. Mercado@email.com
-78, Elizabeth, Lugo, Butler, Elizabeth. Lugo@email.com
-79, Victoria, Robles, Simmons, Victoria. Robles@email.com
-80, Grace, Quintana, Foster, Grace. Quintana@email.com
-81, Avery, Arellano, Gonzales, Avery. Arellano@email.com
-82, Ella, Valdés, Bryant, Ella. Valdés@email.com
-83, Zoey, Almonte, Alexander, Zoey. Almonte@email.com
-84, Mila, Almonte, Russell, Mila. Almonte@email.com
-85, Penelope,Villarreal, Griffin, Penelope.Villarreal@email.com
-86, Evelyn, Pacheco, Diaz, Evelyn. Pacheco@email.com
-87, Layla, Monroy, Hayes, Layla. Monroy@email.com
-88, Riley, Blanco, Myers, Riley. Blanco@email.com
-89, Aaliyah, Pineda, Ford, Aaliyah. Pineda@email.com
-90, Adeline, Barrera, Hamilton, Adeline. Barrera@email.com
-91, Audrey, Palacios, Graham, Audrey. Palacios@email.com
-92, Brooklyn, García, Sullivan, Brooklyn. García@email.com
-93, Ellie, Munguía, Wallace, Ellie. Munguía@email.com
-94, Hailey, Villalobos, Woods, Hailey. Villalobos@email.com
-95, Leah, Vega, Cole, Leah. Vega@email.com
-96, Maya, Cisneros, West, Maya. Cisneros@email.com
-97, Nevaeh, Camacho, Jordan, Nevaeh. Camacho@email.com
-98, Samantha, Amador, Owens, Samantha. Amador@email.com
-99, Stella, Pantoja, Reynolds, Stella. Pantoja@email.com
-100, Aurora, Olivares,Lira, Aurora. Olivares@email.com
- Santiago,	 Rodríguez	 Rivera	 Santiago Rodríguez@email.com
- Valentina	 García	 Rivas	 Valentina García@email.com
- Mateo	 Martínez	 Delgado	 Mateo Martínez@email.com
- Sofía	 López	 Castro	 Sofía López@email.com
- Alejandro	 González	 Fernández	 Alejandro González@email.com
- Isabella	 Hernández	 Vargas	 Isabella Hernández@email.com
- Benjamín	 Pérez	 Montoya	 Benjamín Pérez@email.com
- Camila	 Sánchez	 Paredes	 Camila Sánchez@email.com
- Sebastián	 Ramírez	 Méndez	 Sebastián Ramírez@email.com
- Valeria	 Torres	 Herrera	 Valeria Torres@email.com
- Nicolás	 Flores	 Miranda	 Nicolás Flores@email.com
- Lucía	 Gómez	 Aguilar	 Lucía Gómez@email.com
- Samuel	 Díaz	 Ríos	 Samuel Díaz@email.com
- Emma	 Cruz	 Cordero	 Emma Cruz@email.com
- Daniel	 Morales	 Cervantes	 Daniel Morales@email.com
- Victoria	 Reyes	 Soto	 Victoria Reyes@email.com
- Diego	 Romero	 Bravo	 Diego Romero@email.com
- Mia	 Vargas	 Medina	 Mia Vargas@email.com
- Felipe	 Mendoza	 León	 Felipe Mendoza@email.com
- Mariana	 Castro	 Mendoza	 Mariana Castro@email.com
- Andrés	 Ríos	 Rojas	 Andrés Ríos@email.com
- Gabriela	 Aguilar	 Jiménez	 Gabriela Aguilar@email.com
- Juan	 Ortega	 Guzmán	 Juan Ortega@email.com
- Natalia	 Silva	 Del Valle	 Natalia Silva@email.com
- David	 Cárdenas	 Duarte	 David Cárdenas@email.com
- Sara	 Medina	 Pineda	 Sara Medina@email.com
- Carlos	 Paredes	 Zamora	 Carlos Paredes@email.com
- Laura	 Rivas	 Alvarado	 Laura Rivas@email.com
- Andrés	 Miranda	 Cáceres	 Andrés Miranda@email.com
- Julia	 Velázquez	 Navarro	 Julia Velázquez@email.com
- Antonio	 Figueroa	 Ramírez	 Antonio Figueroa@email.com
- Gabriela	 Solís	 Valenzuela	 Gabriela Solís@email.com
- Javier	 Guzmán	 Bautista	 Javier Guzmán@email.com
- Daniela	 Navarro	 Valdés	 Daniela Navarro@email.com
- Francisco	 Valdez	 Sepúlveda	 Francisco Valdez@email.com
- Carolina	 Rojas	 Contreras	 Carolina Rojas@email.com
- José	 Zavala	 Cabrera	 José Zavala@email.com
- Adriana	 Núñez	 Molina	 Adriana Núñez@email.com
- Ricardo	 Morales	 Escobar	 Ricardo Morales@email.com
- Isabela	 Méndez	 Cáceres	 Isabela Méndez@email.com
- Manuel	 Pineda	 Calderón	 Manuel Pineda@email.com
- Fernanda	 Salgado	 Campos	 Fernanda Salgado@email.com
- Guillermo	 Quintero	 Salazar	 Guillermo Quintero@email.com
- Paula	 Vázquez	 Villegas	 Paula Vázquez@email.com
- Eduardo	 Fuentes	 Peña	 Eduardo Fuentes@email.com
- Alejandra	 Rangel	 Andrade	 Alejandra Rangel@email.com
- Mauricio	 Cervantes	 Figueroa	 Mauricio Cervantes@email.com
- Antonia	 León	 Solís	 Antonia León@email.com
- Marcos	 Tapia	 Núñez	 Marcos Tapia@email.com
- Elena	 Castillo	 Araya	 Elena Castillo@email.com
- Gabriel	 Montes	 Valdez	 Gabriel Montes@email.com
- Renata	 Rosales	 Espinoza	 Renata Rosales@email.com
- Andrés	 Cordero	 Carvajal	 Andrés Cordero@email.com
- Luciana	 Espinosa	 Sánchez	 Luciana Espinosa@email.com
- Emilio	 Benítez	 Céspedes	 Emilio Benítez@email.com
- Jimena	 Osorio	 Moya	 Jimena Osorio@email.com
- Mario	 Sepúlveda	 Rojas	 Mario Sepúlveda@email.com
- Clara	 Ríos	 Cárdenas	 Clara Ríos@email.com
- Rodrigo	 Jiménez	 Trujillo	 Rodrigo Jiménez@email.com
- Andrea	 Arias	 Fuentes	 Andrea Arias@email.com
- Hugo	 Mora	 Ríos	 Hugo Mora@email.com
- Regina	 Navarro	 Lara	 Regina Navarro@email.com
- Emiliano	 Godoy	 Zambrano	 Emiliano Godoy@email.com
- Catalina	 Valencia	 Acevedo	 Catalina Valencia@email.com
- Christian	 Chávez	 Campos	 Christian Chávez@email.com
- Olivia	 Ochoa	 Romero	 Olivia Ochoa@email.com
- Raúl	 Cedeño	 Valdivia	 Raúl Cedeño@email.com
- Celeste	 Esquivel	 Ibarra	 Celeste Esquivel@email.com
- Víctor	 Ortega	 Jara	 Víctor Ortega@email.com
- Isabel	 Campos	 Morales	 Isabel Campos@email.com
- Martín	 Ibarra	 Gutiérrez	 Martín Ibarra@email.com
- Renata	 Duarte	 Zamudio	 Renata Duarte@email.com
- Ignacio	 Méndez	 Pacheco	 Ignacio Méndez@email.com
- Patricia	 Mendoza	 Arévalo	 Patricia Mendoza@email.com
- Hernán	 Lugo	 Arancibia	 Hernán Lugo@email.com
- Lourdes	 Maldonado	 Benítez	 Lourdes Maldonado@email.com
- Agustín	 Zúñiga	 Medina	 Agustín Zúñiga@email.com
- Marina	 Fuentes	 Chávez	 Marina Fuentes@email.com
- Tomás	 Leiva	 Alarcón	 Tomás Leiva@email.com
- Aurora	 Escobar	 Sepúlveda	 Aurora Escobar@email.com
- Rafael	 Cordero	 Pizarro	 Rafael Cordero@email.com
- Adriana	 Cáceres	 Segura	 Adriana Cáceres@email.com
- Pedro	 Alvarado	 Paredes	 Pedro Alvarado@email.com
- Lorena	 Soto	 Espinosa	 Lorena Soto@email.com
- Miguel	 Báez	 Iturra	 Miguel Báez@email.com
- Ximena	 Alarcón	 Rojas	 Ximena Alarcón@email.com
- Rubén	 Delgado	 Cortés	 Rubén Delgado@email.com
- Paola	 Campos	 Morales	 Paola Campos@email.com
- Ángel	 Castillo	 Contreras	 Ángel Castillo@email.com
- Ana	 Barrera	 Leiva	 Ana Barrera@email.com
- Leonardo	 Bravo	 Urrutia	 Leonardo Bravo@email.com
- Valentina	 Molina	 Ortiz	 Valentina Molina@email.com
- Omar	 Pacheco	 López	 Omar Pacheco@email.com
- Elisa	 Peralta	 Cisternas	 Elisa Peralta@email.com
- Ernesto	 Araya	 Peñaloza	 Ernesto Araya@email.com
- Romina	 Solano	 Vilches	 Romina Solano@email.com
- Julián	 Acosta	 Méndez	 Julián Acosta@email.com
- Brenda	 Murillo	 Espinoza	 Brenda Murillo@email.com
- René	 Mora	 Tapia	 René Mora@email.com
- Margarita	 Segura	 Soto	
+Id_persona	NOMBRE 	Primer apellido 	segundo apellido	email
+1	 Santiago	 Rodríguez	 Rivera	 Santiago Rodríguez@email.com
+2	 Valentina	 García	 Rivas	 Valentina García@email.com
+3	 Mateo	 Martínez	 Delgado	 Mateo Martínez@email.com
+4	 Sofía	 López	 Castro	 Sofía López@email.com
+5	 Alejandro	 González	 Fernández	 Alejandro González@email.com
+6	 Isabella	 Hernández	 Vargas	 Isabella Hernández@email.com
+7	 Benjamín	 Pérez	 Montoya	 Benjamín Pérez@email.com
+8	 Camila	 Sánchez	 Paredes	 Camila Sánchez@email.com
+9	 Sebastián	 Ramírez	 Méndez	 Sebastián Ramírez@email.com
+10	 Valeria	 Torres	 Herrera	 Valeria Torres@email.com
+11	 Nicolás	 Flores	 Miranda	 Nicolás Flores@email.com
+12	 Lucía	 Gómez	 Aguilar	 Lucía Gómez@email.com
+13	 Samuel	 Díaz	 Ríos	 Samuel Díaz@email.com
+14	 Emma	 Cruz	 Cordero	 Emma Cruz@email.com
+15	 Daniel	 Morales	 Cervantes	 Daniel Morales@email.com
+16	 Victoria	 Reyes	 Soto	 Victoria Reyes@email.com
+17	 Diego	 Romero	 Bravo	 Diego Romero@email.com
+18	 Mia	 Vargas	 Medina	 Mia Vargas@email.com
+19	 Felipe	 Mendoza	 León	 Felipe Mendoza@email.com
+20	 Mariana	 Castro	 Mendoza	 Mariana Castro@email.com
+21	 Andrés	 Ríos	 Rojas	 Andrés Ríos@email.com
+22	 Gabriela	 Aguilar	 Jiménez	 Gabriela Aguilar@email.com
+23	 Juan	 Ortega	 Guzmán	 Juan Ortega@email.com
+24	 Natalia	 Silva	 Del Valle	 Natalia Silva@email.com
+25	 David	 Cárdenas	 Duarte	 David Cárdenas@email.com
+26	 Sara	 Medina	 Pineda	 Sara Medina@email.com
+27	 Carlos	 Paredes	 Zamora	 Carlos Paredes@email.com
+28	 Laura	 Rivas	 Alvarado	 Laura Rivas@email.com
+29	 Andrés	 Miranda	 Cáceres	 Andrés Miranda@email.com
+30	 Julia	 Velázquez	 Navarro	 Julia Velázquez@email.com
+31	 Antonio	 Figueroa	 Ramírez	 Antonio Figueroa@email.com
+32	 Gabriela	 Solís	 Valenzuela	 Gabriela Solís@email.com
+33	 Javier	 Guzmán	 Bautista	 Javier Guzmán@email.com
+34	 Daniela	 Navarro	 Valdés	 Daniela Navarro@email.com
+35	 Francisco	 Valdez	 Sepúlveda	 Francisco Valdez@email.com
+36	 Carolina	 Rojas	 Contreras	 Carolina Rojas@email.com
+37	 José	 Zavala	 Cabrera	 José Zavala@email.com
+38	 Adriana	 Núñez	 Molina	 Adriana Núñez@email.com
+39	 Ricardo	 Morales	 Escobar	 Ricardo Morales@email.com
+40	 Isabela	 Méndez	 Cáceres	 Isabela Méndez@email.com
+41	 Manuel	 Pineda	 Calderón	 Manuel Pineda@email.com
+42	 Fernanda	 Salgado	 Campos	 Fernanda Salgado@email.com
+43	 Guillermo	 Quintero	 Salazar	 Guillermo Quintero@email.com
+44	 Paula	 Vázquez	 Villegas	 Paula Vázquez@email.com
+45	 Eduardo	 Fuentes	 Peña	 Eduardo Fuentes@email.com
+46	 Alejandra	 Rangel	 Andrade	 Alejandra Rangel@email.com
+47	 Mauricio	 Cervantes	 Figueroa	 Mauricio Cervantes@email.com
+48	 Antonia	 León	 Solís	 Antonia León@email.com
+49	 Marcos	 Tapia	 Núñez	 Marcos Tapia@email.com
+50	 Elena	 Castillo	 Araya	 Elena Castillo@email.com
+51	 Gabriel	 Montes	 Valdez	 Gabriel Montes@email.com
+52	 Renata	 Rosales	 Espinoza	 Renata Rosales@email.com
+53	 Andrés	 Cordero	 Carvajal	 Andrés Cordero@email.com
+54	 Luciana	 Espinosa	 Sánchez	 Luciana Espinosa@email.com
+55	 Emilio	 Benítez	 Céspedes	 Emilio Benítez@email.com
+56	 Jimena	 Osorio	 Moya	 Jimena Osorio@email.com
+57	 Mario	 Sepúlveda	 Rojas	 Mario Sepúlveda@email.com
+58	 Clara	 Ríos	 Cárdenas	 Clara Ríos@email.com
+59	 Rodrigo	 Jiménez	 Trujillo	 Rodrigo Jiménez@email.com
+60	 Andrea	 Arias	 Fuentes	 Andrea Arias@email.com
+61	 Hugo	 Mora	 Ríos	 Hugo Mora@email.com
+62	 Regina	 Navarro	 Lara	 Regina Navarro@email.com
+63	 Emiliano	 Godoy	 Zambrano	 Emiliano Godoy@email.com
+64	 Catalina	 Valencia	 Acevedo	 Catalina Valencia@email.com
+65	 Christian	 Chávez	 Campos	 Christian Chávez@email.com
+66	 Olivia	 Ochoa	 Romero	 Olivia Ochoa@email.com
+67	 Raúl	 Cedeño	 Valdivia	 Raúl Cedeño@email.com
+68	 Celeste	 Esquivel	 Ibarra	 Celeste Esquivel@email.com
+69	 Víctor	 Ortega	 Jara	 Víctor Ortega@email.com
+70	 Isabel	 Campos	 Morales	 Isabel Campos@email.com
+71	 Martín	 Ibarra	 Gutiérrez	 Martín Ibarra@email.com
+72	 Renata	 Duarte	 Zamudio	 Renata Duarte@email.com
+73	 Ignacio	 Méndez	 Pacheco	 Ignacio Méndez@email.com
+74	 Patricia	 Mendoza	 Arévalo	 Patricia Mendoza@email.com
+75	 Hernán	 Lugo	 Arancibia	 Hernán Lugo@email.com
+76	 Lourdes	 Maldonado	 Benítez	 Lourdes Maldonado@email.com
+77	 Agustín	 Zúñiga	 Medina	 Agustín Zúñiga@email.com
+78	 Marina	 Fuentes	 Chávez	 Marina Fuentes@email.com
+79	 Tomás	 Leiva	 Alarcón	 Tomás Leiva@email.com
+80	 Aurora	 Escobar	 Sepúlveda	 Aurora Escobar@email.com
+81	 Rafael	 Cordero	 Pizarro	 Rafael Cordero@email.com
+82	 Adriana	 Cáceres	 Segura	 Adriana Cáceres@email.com
+83	 Pedro	 Alvarado	 Paredes	 Pedro Alvarado@email.com
+84	 Lorena	 Soto	 Espinosa	 Lorena Soto@email.com
+85	 Miguel	 Báez	 Iturra	 Miguel Báez@email.com
+86	 Ximena	 Alarcón	 Rojas	 Ximena Alarcón@email.com
+87	 Rubén	 Delgado	 Cortés	 Rubén Delgado@email.com
+88	 Paola	 Campos	 Morales	 Paola Campos@email.com
+89	 Ángel	 Castillo	 Contreras	 Ángel Castillo@email.com
+90	 Ana	 Barrera	 Leiva	 Ana Barrera@email.com
+91	 Leonardo	 Bravo	 Urrutia	 Leonardo Bravo@email.com
+92	 Valentina	 Molina	 Ortiz	 Valentina Molina@email.com
+93	 Omar	 Pacheco	 López	 Omar Pacheco@email.com
+94	 Elisa	 Peralta	 Cisternas	 Elisa Peralta@email.com
+95	 Ernesto	 Araya	 Peñaloza	 Ernesto Araya@email.com
+96	 Romina	 Solano	 Vilches	 Romina Solano@email.com
+97	 Julián	 Acosta	 Méndez	 Julián Acosta@email.com
+98	 Brenda	 Murillo	 Espinoza	 Brenda Murillo@email.com
+99	 René	 Mora	 Tapia	 René Mora@email.com
+100	 Margarita	 Segura	 Soto	
