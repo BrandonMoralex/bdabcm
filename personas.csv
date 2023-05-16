@@ -1,4 +1,4 @@
-Id_persona,NOMBRE,Primer apellido,segundo apellido,email
+Id_persona,nombre,Primer_apellido,segundo_apellido,email
 1	 Santiago Rodríguez Rivera Santiago,Rodríguez@email.com
 2	 Valentina	 García	 RivasValentina García@email.com
 3	 Mateo	 Martínez	 Delgado Mateo Martínez@email.com
