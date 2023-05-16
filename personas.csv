@@ -1,11 +1,11 @@
-Id_persona,	NOMBRE, 	Primer apellido, 	segundo apellido,	email
-1	 Santiago, Rodríguez,	 Rivera, Santiago Rodríguez@email.com
-2	 Valentina,	 García,	 Rivas,	 Valentina García@email.com
-3	 Mateo,	 Martínez,	 Delgado,	 Mateo Martínez@email.com
-4	 Sofía,	 López,	 Castro,	 Sofía, López@email.com
-5	 Alejandro,	 González,	 Fernández,	 Alejandro González@email.com
-6	 Isabella,	 Hernández,	 Vargas,	 Isabella Hernández@email.com
-7	 Benjamín,	 Pérez,	 Montoya,	 Benjamín Pérez@email.com
+Id_persona,NOMBRE,Primer apellido,segundo apellido,email
+1	 Santiago Rodríguez Rivera Santiago,Rodríguez@email.com
+2	 Valentina	 García	 RivasValentina García@email.com
+3	 Mateo	 Martínez	 Delgado Mateo Martínez@email.com
+4	 Sofía	 López	 Castro	 Sofía López@email.com
+5	 Alejandro  González	 Fernández Alejandro González@email.com
+6	 Isabella	 Hernández	 Vargas Isabella Hernández@email.com
+7	 Benjamín	 Pérez  Montoya	 Benjamín Pérez@email.com
 8	 Camila	 Sánchez	 Paredes	 Camila Sánchez@email.com
 9	 Sebastián	 Ramírez	 Méndez	 Sebastián Ramírez@email.com
 10	 Valeria	 Torres	 Herrera	 Valeria Torres@email.com
